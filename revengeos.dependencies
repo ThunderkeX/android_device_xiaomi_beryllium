@@ -1,0 +1,26 @@
+[
+  {
+
+    "repository":  "device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "revision": "11.x"
+  },
+  {
+    "remote": "github",
+    "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
+    "target_path": "kernel/xiaomi/sdm845",
+    "revision": "11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "ThunderkeX/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision": "11.0-beryllium"
+  },
+  {
+    "remote": "github",
+    "repository": "ThunderkeX/android_vendor_qcom_opensource_interfaces",
+    "target_path": "vendor/qcom/opensource/interfaces",
+    "revision": "lineage-18.1"
+  }
+]  
